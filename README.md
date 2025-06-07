@@ -2,7 +2,7 @@
 resume structure in react language 
 # Professional Resume React Application
 
-![Resume Screenshot](./screenshot.png)
+
 
 A modern, responsive resume/CV application built with React that features a professional layout with a profile picture in the top-left corner.
 
